@@ -1,7 +1,7 @@
 # Minigame 1
 ## Devlog
-When making a game, we will prioritize a base of components, which a higher scale are a part of game objects, and these in turn are set within scenes. Now, don't feel overwhelmed, as it's
-essentiall the same as a Russian nesting doll. The completed doll, filled with all the other miniature versions of itself is what one would call a game. And within the first layer holds the
+When making a game, we will will look at a base of components, which scale into multiple game objects, and these in turn are set within scenes. Now, don't feel overwhelmed, as it's
+essentially the same as a Russian nesting doll. The completed doll, filled with all the other miniature versions of itself is what one would call a game. And within the first layer holds the
 scene, which is where a majority of the game will take place including sounds, visuals, and of course game objects. These game objects can be a variety of different things, but are usually
 assets that you will be able to control, and are within the scene nesting doll. And of course, the game object doll is able to hold the final and smallest doll, being the components. These
 components consist of scripts, rigid bodies, physics, etc. and are what allow your game objects to actually exist with properties to them. So, taking a look at everything as a whole, you have
